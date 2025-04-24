@@ -56,7 +56,7 @@ Testar os endpoints usando Postman ou outra ferramenta de API:
 
 Exemplo de endpoint: GET http://localhost:8080/h2-console
 
-🔧 Coisas que ainda vão ser implementadas
+##🔧 Coisas que ainda vão ser implementadas
 Implementação de cartão e Seguro
 
 Validações mais robustas nos formulários
@@ -64,5 +64,5 @@ Validações mais robustas nos formulários
 Integração com frontend
 
 
-👨‍💻 Criado por
+##👨‍💻 Criado por
 Desenvolvido por Pedro Mascarenhas
