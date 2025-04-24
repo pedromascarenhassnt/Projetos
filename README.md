@@ -31,7 +31,7 @@ O sistema permite o **cadastro e gerenciamento de clientes**, **gerenciamento de
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/banco-digital-simples.git
+   git clone https://github.com/pedromascarenhassnt/banco-digital-simples.git
 Importe o projeto na IDE Eclipse com suporte a projetos Spring Boot.
 
 Execute o projeto através da classe principal:
@@ -57,6 +57,8 @@ Password: (em branco)
 Testar os endpoints usando Postman ou outra ferramenta de API:
 
 Exemplo de endpoint: GET http://localhost:8080/clientes
+
+---
 
 🔧 Melhorias futuras
 Implementação de autenticação com Spring Security
