@@ -35,7 +35,7 @@ O sistema permite o **cadastro e gerenciamento de clientes**, **gerenciamento de
 Importe o projeto na IDE Eclipse com suporte a projetos Spring Boot.
 
 Execute o projeto através da classe principal:
-
+ ```bash
 java
 Copiar
 Editar
@@ -56,13 +56,13 @@ Testar os endpoints usando Postman ou outra ferramenta de API:
 
 Exemplo de endpoint: GET http://localhost:8080/h2-console
 
-##🔧 Coisas que ainda vão ser implementadas
+## 🔧 Coisas que ainda vão ser implementadas
 Implementação de cartão e Seguro
 
 Validações mais robustas nos formulários
 
 Integração com frontend
+ ```bash
 
-
-##👨‍💻 Criado por
+## 👨‍💻 Criado por
 Desenvolvido por Pedro Mascarenhas
