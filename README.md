@@ -60,16 +60,11 @@ Exemplo de endpoint: GET http://localhost:8080/clientes
 
 ---
 
-🔧 Melhorias futuras
-Implementação de autenticação com Spring Security
+## 💻 Coisas a implementar no futuro
+Implementação de cartao e seguro
 
-Validações mais robustas nos formulários
+Integração com frontend 
 
-Adição de operações bancárias como saque, depósito e extrato
 
-Integração com frontend (React, Angular ou outro)
-
-Salvamento de dados em banco de dados relacional (MySQL ou PostgreSQL)
-
-👨‍💻 Autor
+## 👨‍💻 Criador
 Desenvolvido por Pedro Mascarenhas 
