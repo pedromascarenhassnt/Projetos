@@ -31,20 +31,22 @@ O sistema permite o **cadastro e gerenciamento de clientes**, **gerenciamento de
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/pedromascarenhassnt/banco-digital-simples.git
+   git clone https://github.com/seu-usuario/banco-digital-simples.git
 Importe o projeto na IDE Eclipse com suporte a projetos Spring Boot.
 
 Execute o projeto através da classe principal:
- ```bash
+
 java
+Sempre exibir os detalhes
+
 Copiar
-Editar
 BancoDigitalApplication.java
 Acesse o console do banco de dados H2:
 
 bash
+Sempre exibir os detalhes
+
 Copiar
-Editar
 http://localhost:8080/h2-console
 JDBC URL padrão: jdbc:h2:mem:testdb
 
@@ -54,15 +56,18 @@ Password: (em branco)
 
 Testar os endpoints usando Postman ou outra ferramenta de API:
 
-Exemplo de endpoint: GET http://localhost:8080/h2-console
+Exemplo de endpoint: GET http://localhost:8080/clientes
 
-## 🔧 Coisas que ainda vão ser implementadas
-Implementação de cartão e Seguro
+🔧 Melhorias futuras
+Implementação de autenticação com Spring Security
 
 Validações mais robustas nos formulários
 
-Integração com frontend
- ```bash
+Adição de operações bancárias como saque, depósito e extrato
 
-## 👨‍💻 Criado por
-Desenvolvido por Pedro Mascarenhas
+Integração com frontend (React, Angular ou outro)
+
+Salvamento de dados em banco de dados relacional (MySQL ou PostgreSQL)
+
+👨‍💻 Autor
+Desenvolvido por Pedro Mascarenhas 
